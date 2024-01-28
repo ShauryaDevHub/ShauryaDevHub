@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects in both cloud, Database Management and AML
 - 📫 How to reach me on LinkedIn -> https://www.linkedin.com/in/shaurya-jain20/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love watching Anime, 
+
 
 <!---
 ShauryaDevHub/ShauryaDevHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
